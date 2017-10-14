@@ -3,7 +3,7 @@ html {
     padding: 0;
 }
 body {
-    font-family: 'Roboto', cursive;
+    font-family: 'Roboto';
     font-size: 13pt;
     background-color: #efefef;
     margin: 0;
@@ -42,7 +42,7 @@ section {
 }
 
 article {
-    background-color: rgb(196, 203, 225);
+    background-color: rgb(216, 220, 230);
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
